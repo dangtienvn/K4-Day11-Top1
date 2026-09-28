@@ -20,11 +20,11 @@
 
 ## Bảng repo và commit chốt của các thành viên
 
-| Thành viên                       | MSSV        | Tên mode      | Slice    | QA bài của    | Repo cá nhân                                                                                           | Commit chốt        |
-| -------------------------------- | ----------- | ------------- | -------- | ------------- | ------------------------------------------------------------------------------------------------------ | ------------------ |
-| **Đặng Thanh Tiến** _(Đại diện)_ | 2A202602099 | DangThanhTien | B4-dense | PhamThiOanh   | [K4-Day11-DangThanhTien-2A202602099](https://github.com/dangtienvn/K4-Day11-DangThanhTien-2A202602099) | `2846135`          |
-| **Phạm Thị Oanh**                | 2A202602055 | PhamThiOanh   | B2-edge  | PhanBoiThuy   | [K4-Day11-PhamThiOanh-2A202602055](https://github.com/phamthioanh/K4-Day11-PhamThiOanh-2A202602055)    | `chốt-bài-cá-nhân` |
-| **Phan Bội Thúy**                | 2A202602129 | PhanBoiThuy   | B4-edge  | DangThanhTien | [K4-Day11-PhanBoiThuy-2A202602129](https://github.com/phanboithuy/K4-Day11-PhanBoiThuy-2A202602129)    | `chốt-bài-cá-nhân` |
+| Thành viên                       | MSSV        | Tên mode      | Slice    | QA bài của    | Repo cá nhân                                                                                                  | Commit chốt        |
+| -------------------------------- | ----------- | ------------- | -------- | ------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ |
+| **Đặng Thanh Tiến** _(Đại diện)_ | 2A202602099 | DangThanhTien | B4-dense | PhamThiOanh   | [K4-Day11-DangThanhTien-2A202602099](https://github.com/dangtienvn/K4-Day11-DangThanhTien-2A202602099)        | `2846135`          |
+| **Phạm Thị Oanh**                | 2A202602055 | PhamThiOanh   | B2-edge  | PhanBoiThuy   | [K4-Day11-PhamThiOanh-2A202602055](https://github.com/phamthioanh13112004-prog/K4-L2-DAY11-PhamThiOanh-02055) | `chốt-bài-cá-nhân` |
+| **Phan Bội Thúy**                | 2A202602129 | PhanBoiThuy   | B4-edge  | DangThanhTien | [K4-Day11-PhanBoiThuy-2A202602129](https://github.com/BoiThuy/K4-DAY11-PhanBoiThuy-2A202602129)               | `chốt-bài-cá-nhân` |
 
 ---
 
