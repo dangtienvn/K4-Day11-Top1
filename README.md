@@ -13,7 +13,7 @@
 | Tên nhóm            | Top1                                |
 | Khoá                | K4                                  |
 | Số lượng thành viên | 3 người                             |
-| Đại diện nộp bài    | Đặng Thành Tiên (MSSV: 2A202602099) |
+| Đại diện nộp bài    | Đặng Thanh Tiến (MSSV: 2A202602099) |
 | Ngày nộp            | 2026-09-28                          |
 
 ---
